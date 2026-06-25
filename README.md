@@ -76,9 +76,7 @@ SmartBuddy/
 ### 🔧 Installation
 
 1. **Clone/Open the workspace** in your terminal:
-   ```bash
-   cd c:\Users\RAKESH\OneDrive\Attachments\Desktop\SmartBuddy
-   ```
+
 
 2. **Install dependencies**:
    ```bash
