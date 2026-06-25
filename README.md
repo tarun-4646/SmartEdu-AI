@@ -107,8 +107,4 @@ A browser window should automatically open at `http://localhost:8501`.
 
 ---
 
-## 🛠️ Verification & Testing
-To run the automated verification suite to test cleaning, chunking, and mock vector search ranking:
-```bash
-$env:PYTHONPATH="."; python C:\Users\RAKESH\.gemini\antigravity\brain\4d77e6fa-8503-43b5-811f-c4e7dc946e87\scratch\test_pipeline.py
-```
+
